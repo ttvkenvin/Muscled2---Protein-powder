@@ -10,7 +10,7 @@ A perfect solution for a fitness protein powder, come and support us!
 If you have any questions, please contact us. Email: frentyStryten@gmail.com
 
 # Screenshot
-[image](https://github.com/ttvkenvin/Muscled2---Protein-powder/blob/master/1.png)
+![image](https://github.com/ttvkenvin/Muscled2---Protein-powder/blob/master/1.png)
 ![image](https://github.com/ttvkenvin/Muscled2---Protein-powder/blob/master/2.png)
 ![image](https://github.com/ttvkenvin/Muscled2---Protein-powder/blob/master/3.png)
 ![image](https://github.com/ttvkenvin/Muscled2---Protein-powder/blob/master/4.png)
